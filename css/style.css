@@ -27,10 +27,21 @@ nav
    
 }
 
+.navbar-brand
+{
+  width: 50%;
+}
+
+.nav-link
+{
+  width: 100px;
+}
+
 
 nav ul li
 {
     font-weight: 700;
+    width: 100%;
 }
 
 
@@ -97,16 +108,28 @@ h1
     margin-left: 15%;
 }
 
+
+nav img
+{
+  width: 75% !important;
+}
+
 }
 
 @media screen and (max-width: 768px)
 {
     h1
 {
-    width: 25%;
+    width: 50%;
     margin-top: 25%;
     margin-left: 15%;
 }
+
+nav img
+{
+  width: 50% !important;
+}
+
 
 }
 
@@ -115,10 +138,16 @@ h1
 {
     h1
 {
-    width: 25%;
+    width: 75%;
     margin-top: 25%;
     margin-left: 15%;
 }
+
+nav img
+{
+  width: 30% !important;
+}
+
 
 }
 
