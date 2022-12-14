@@ -70,11 +70,11 @@ header
 .slider-img1
 {
     width: 100%;
-    height: 110vh;
+    height: 100vh;
     position: relative;
 
     background-image: url(../images/slider1.jpeg);
-    background-size: 110% 100%;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: center center;
 }
@@ -82,11 +82,11 @@ header
 .slider-img2
 {
     width: 100%;
-    height: 110vh;
+    height: 100vh;
     position: relative;
 
     background-image: url(../images/slider2.jpeg);
-    background-size: 110% 100%;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: center center;
 }
@@ -212,6 +212,7 @@ h2
 {
     height: 40%;
 }
+
 
 
 /* ===================================================================================== */
